@@ -4,7 +4,7 @@
 
 ## Basic Information
 - **Software Name**: TWOTP1 Virtual Base System V1.0
-- **Developer**: Wang Ji
+- **Developer**: Ji Wang
 - **Version**: V1.0
 - **Development Tool**: Scratch
 - **Completion Date**: November 8, 2026
